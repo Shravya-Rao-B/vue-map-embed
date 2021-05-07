@@ -12,7 +12,7 @@
     "core-js": "^3.6.4",
     "leaflet": "^1.6.0",
     "leaflet.heat": "^0.2.0",
-    "underscore": "^1.10.2",
+    "underscore": "^1.12.1",
     "vue": "^2.6.11",
     "vue-browser-geolocation": "^1.8.0",
     "vue-custom-element": "^3.2.14",
